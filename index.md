@@ -135,7 +135,7 @@ title: Zhangrui Yang (杨章睿) | Tongji University
     </div>
 
     <div class="pub-card">
-      <strong style="display:block; font-size:1.1em;">Pseudo-Label Refinement for Robust Wheat Head Segmentation</strong>
+      <strong style="display:block; font-size:1.1em;">Pseudo-Label Refinement for Robust Wheat Head Segmentation via Two-Stage Hybrid Training</strong>
       <span style="color:#555">Jiahao Jiang*, <strong>Zhangrui Yang</strong>*, Xuanhan Wang, Jingkuan Song</span><br>
       <span style="font-style:italic">CVPPA Workshop, ICCV 2025</span><br>
       <div class="badge-row">
