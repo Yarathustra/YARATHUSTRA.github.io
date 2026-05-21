@@ -128,7 +128,7 @@ title: Zhangrui Yang (杨章睿) | Tongji University
     <div class="pub-card">
       <strong style="display:block; font-size:1.1em;">Enhancing Adversarial Attacks with Decision Boundary Information</strong>
       <span style="color:#555"><strong>Zhangrui Yang</strong>, Shengming Yuan, Bo Wang, Yaya Cheng, Pengpeng Zeng, Zheng Wang, Xuanhan Wang, Jingkuan Song</span><br>
-      <span style="font-style:italic">Information Fusion, 2026</span> <span style="color:#e67e22; font-weight:bold; font-size:0.9em;">[Under Review]</span><br>
+      <span style="font-style:italic">Neural Networks, 2026</span> <span style="color:#e67e22; font-weight:bold; font-size:0.9em;">[Under Review]</span><br>
       <div class="badge-row">
         <a href="https://github.com/Yarathustra/BF-Attack" class="pill pill-gray">Code</a>
       </div>
