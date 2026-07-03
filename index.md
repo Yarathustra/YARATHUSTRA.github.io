@@ -126,15 +126,6 @@ title: Zhangrui Yang (杨章睿) | Tongji University
     <h2>Publications</h2>
     
     <div class="pub-card">
-      <strong style="display:block; font-size:1.1em;">Enhancing Adversarial Attacks with Decision Boundary Information</strong>
-      <span style="color:#555"><strong>Zhangrui Yang</strong>, Shengming Yuan, Bo Wang, Yaya Cheng, Pengpeng Zeng, Zheng Wang, Xuanhan Wang, Jingkuan Song</span><br>
-      <span style="font-style:italic">Neural Networks, 2026</span> <span style="color:#e67e22; font-weight:bold; font-size:0.9em;">[Under Review]</span><br>
-      <div class="badge-row">
-        <a href="https://github.com/Yarathustra/BF-Attack" class="pill pill-gray">Code</a>
-      </div>
-    </div>
-
-    <div class="pub-card">
       <strong style="display:block; font-size:1.1em;">Pseudo-Label Refinement for Robust Wheat Head Segmentation via Two-Stage Hybrid Training</strong>
       <span style="color:#555">Jiahao Jiang*, <strong>Zhangrui Yang</strong>*, Xuanhan Wang, Jingkuan Song</span><br>
       <span style="font-style:italic">CVPPA Workshop, ICCV 2025</span><br>
@@ -147,13 +138,34 @@ title: Zhangrui Yang (杨章睿) | Tongji University
 
   <section>
     <h2>Research Experience</h2>
+    
+    <!-- 曾经无法发表的Paper，转化为硬核的科研项目经历 -->
     <div class="exp-card">
       <div style="display:flex; justify-content:space-between; align-items: center;">
-        <strong>Global Wheat Full Semantic Segmentation</strong>
+        <strong style="font-size:1.1em;">Enhancing Adversarial Attacks with Decision Boundary Information</strong>
+        <span class="pill pill-gray">Technical Report</span>
+      </div>
+      <p style="margin-top:8px; font-size:0.95em; color:#555;">
+        <strong>Core Contributor</strong> <br>
+        • Led the deep extension of a preliminary lab framework to improve adversarial attack performance. <br>
+        • Designed and implemented boundary-based optimization modules, significantly enhancing attack success rates. <br>
+        • Consolidated findings into an internal technical report and open-sourced the complete codebase.
+      </p>
+      <div class="badge-row">
+        <a href="https://github.com/Yarathustra/BF-Attack" class="pill pill-gray">Code</a>
+      </div>
+    </div>
+
+    <!-- 原有的经历，调整为相同的 bullet point 格式保持排版一致 -->
+    <div class="exp-card">
+      <div style="display:flex; justify-content:space-between; align-items: center;">
+        <strong style="font-size:1.1em;">Global Wheat Full Semantic Segmentation</strong>
         <span class="pill pill-yellow">Global Rank #2</span>
       </div>
       <p style="margin-top:8px; font-size:0.95em; color:#555;">
-        Developed a pseudo-label refinement framework for wheat head segmentation, focusing on iterative teacher-student training.
+        <strong>Core Researcher</strong> <br>
+        • Developed a pseudo-label refinement framework for wheat head segmentation, focusing on iterative teacher-student training. <br>
+        • Achieved 2nd place globally in the competition, leading to a co-first authored publication at ICCV 2025 Workshop.
       </p>
     </div>
   </section>
@@ -171,9 +183,10 @@ title: Zhangrui Yang (杨章睿) | Tongji University
   <section>
     <h2>Technical Skills</h2>
     <p>
-      <strong>Programming:</strong> <span class="jerry-badge bg-skill">Python</span> <span class="jerry-badge bg-skill">C++</span> <span class="jerry-badge bg-skill">Verilog HDL</span> <span class="jerry-badge bg-skill">SQL</span><br>
-      <strong>Frameworks:</strong> <span class="jerry-badge bg-skill">PyTorch</span><br>
-      <strong>Tools:</strong> <span class="jerry-badge bg-skill">Linux</span> <span class="jerry-badge bg-skill">Git</span> <span class="jerry-badge bg-skill">LaTeX</span>
+      <!-- 修正了原来 css class 名不匹配的问题 -->
+      <strong>Programming:</strong> <span class="pill pill-skill">Python</span> <span class="pill pill-skill">C++</span> <span class="pill pill-skill">Verilog HDL</span> <span class="pill pill-skill">SQL</span><br>
+      <strong>Frameworks:</strong> <span class="pill pill-skill">PyTorch</span><br>
+      <strong>Tools:</strong> <span class="pill pill-skill">Linux</span> <span class="pill pill-skill">Git</span> <span class="pill pill-skill">LaTeX</span>
     </p>
   </section>
 
