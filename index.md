@@ -87,19 +87,6 @@ title: Zhangrui Yang (杨章睿) | Tongji University
     <h2>Research Experience</h2>
     <div class="exp-card">
       <div class="card-heading">
-        <strong>Autoregressive 3D Scene Generation</strong>
-        <span class="meta">Ongoing</span>
-      </div>
-      <div class="card-body">
-        <strong>Undergraduate Researcher</strong>
-        <ul>
-          <li>Investigating autoregressive generative models for large-scale 3D scenes, with an emphasis on spatial coherence and long-range generation quality.</li>
-          <li>Exploring inference-time optimization of pretrained 3D generative models and evaluating scene completeness and generation quality.</li>
-        </ul>
-      </div>
-    </div>
-    <div class="exp-card">
-      <div class="card-heading">
         <strong>BF-Attack</strong>
         <span class="meta">Sep 2025 – Apr 2026</span>
       </div>
@@ -130,20 +117,39 @@ title: Zhangrui Yang (杨章睿) | Tongji University
 
   <section>
     <h2>Engineering &amp; Project Experience</h2>
-    <div class="exp-card">
-      <div class="card-heading">
-        <strong>SurgeryMind — Intelligent Surgical Assistance System</strong>
-        <span class="meta">Sep 2025 – Aug 2026</span>
-      </div>
-      <div class="card-body">
-        <strong>Technical Lead</strong>
-        <ul>
-          <li>Led full-stack system architecture and integrated web-based parameter visualization with multimodal user inputs.</li>
-          <li>Designed and refined the human-computer interaction interface for surgical assistance workflows.</li>
-          <li>Won National First Prize in the iCAN AI Challenge.</li>
-        </ul>
-      </div>
+<div class="exp-card">
+  <div class="card-heading">
+    <strong>SurgeryMind — Intelligent Surgical Assistance System</strong>
+    <span class="meta">Sep 2025 – Aug 2026</span>
+  </div>
+
+  <div class="card-body">
+    <strong>Technical Lead</strong>
+    <ul>
+      <li>Led full-stack system architecture and integrated web-based parameter visualization with multimodal user inputs.</li>
+      <li>Designed and refined the human-computer interaction interface for surgical assistance workflows.</li>
+      <li>Led technical development of the project, which received three innovation and entrepreneurship competition awards.</li>
+    </ul>
+
+    <div style="border-top: 1px solid var(--border); margin-top: 12px; padding-top: 12px;">
+      <strong>Project Awards</strong>
+      <ul style="list-style: none; padding-left: 0; margin-top: 8px;">
+        <li style="margin-bottom: 8px;">
+          🏆 <strong>National First Prize</strong><br>
+          iCAN AI Challenge
+        </li>
+        <li style="margin-bottom: 8px;">
+          🥈 <strong>University-Level Silver Award</strong><br>
+          China International College Students' Innovation Competition
+        </li>
+        <li>
+          🥈 <strong>University-Level Second Prize</strong><br>
+          Challenge Cup College Students' Entrepreneurship Competition
+        </li>
+      </ul>
     </div>
+  </div>
+</div>
     <div class="exp-card">
       <div class="card-heading">
         <strong>China Undergraduate Mathematical Contest in Modeling (CUMCM)</strong>
